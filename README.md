@@ -26,12 +26,6 @@ git clone git@gitlab.com:YOUR_USERNAME/express-template.git
 
 Deployment instructions for Heroku are found in [DEPLOYMENT.md](DEPLOYMENT.md)
 
-# Requirements
-
-* [Git](https://git-scm.com/)
-* [Nodejs](https://nodejs.org/en/) (v10) with [NPM](https://www.npmjs.com/)
-* [MongoDB](https://www.mongodb.com/) (v4) must be running locally
-* Everything else is installed through npm
 
 # Getting updates from original repo
 
